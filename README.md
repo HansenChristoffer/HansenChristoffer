@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Webscraping API](https://github.com/HansenChristoffer/webscrape-api)
 
-- 🌱 I’m currently learning **Spring, Webscraping, MongoDB, Micronauts**
+- 🌱 I’m currently learning **React, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HansenChristoffer](https://github.com/HansenChristoffer)
 
