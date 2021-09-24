@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christoffer Hansen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansenchristoffer&label=Profile%20views&color=0e75b6&style=flat" alt="hansenchristoffer" /> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **IoT, Netty & connectivity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HansenChristoffer](https://github.com/HansenChristoffer)
-
-- 💬 Ask me about **Java 8+, Spring/Springboot, Hibernate/JPA, API Development, Webscraping, React**
 
 - 📫 How to reach me **chris.hansen.ch@outlook.com**
 
